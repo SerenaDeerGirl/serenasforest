@@ -77,10 +77,12 @@ nav li {
 
 a {
 	color: white;
+	text-decoration: none;
 }
 
 a:hover {
 	color: #DDA0DD;
+	text-decoration: underline;
 }
 
 body {
