@@ -1,0 +1,18 @@
+body
+{
+	background-color: black;
+	font-family: 'Source Sans Pro', sans-serif;
+	color:white;
+	text-align: center;
+}
+
+a
+{
+	color:white;
+	text-decoration:none;
+}
+
+iframe
+{
+	margin: 300px;
+}
